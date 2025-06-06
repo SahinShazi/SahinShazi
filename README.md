@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sahin Shazi
+### Hi there 👋, my name is Sahin
 #### A passionate frontend developer from Bangladesh
 ![A passionate frontend developer from Bangladesh](https://yt3.googleusercontent.com/5Z0udUbo1tvh5oeyeZpHTNoeSdVhuqui6dWMocgblvTllQqpzwRTzG_b-tIRB9-x0xg4qxXfCw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
