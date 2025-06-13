@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Sahin
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](file:///data/user/0/com.twitter.android/cache/1812021665326301184_header.jpg)
+![A passionate frontend developer from Bangladesh](https://yt3.googleusercontent.com/5Z0udUbo1tvh5oeyeZpHTNoeSdVhuqui6dWMocgblvTllQqpzwRTzG_b-tIRB9-x0xg4qxXfCw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 Passionate about building modern, responsive websites that make an impact. Skilled in HTML, CSS, JavaScript, and always ready to craft clean code and beautiful UI. Let’s create something awesome together!
 
 Skills: VUE JS / REACT / JS / HTML / CSS
