@@ -25,14 +25,38 @@ Skilled in **HTML, CSS, JavaScript**, and always ready to craft clean code and b
 ---
 
 ### 🌐 Connect with Me  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahinShaz)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SahinShaz/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SahinShaz)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sahinshazi/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sahin_tech_1)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/SahinShaz)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://youtube.com/@sahinshaji?si=bDg6Gc8inaDqSBz3)  
 
+<div style="display: flex; gap: 15px; align-items: center;">
+
+  <a href="https://github.com/SahinShaz">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?color=white" alt="github" height="40">
+  </a>
+
+  <a href="https://www.linkedin.com/in/SahinShaz/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?color=white" alt="linkedin" height="40">
+  </a>
+
+  <a href="https://www.facebook.com/SahinShaz">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg?color=white" alt="facebook" height="40">
+  </a>
+
+  <a href="https://www.instagram.com/sahinshazi/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg?color=white" alt="instagram" height="40">
+  </a>
+
+  <a href="https://twitter.com/sahin_tech_1">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg?color=white" alt="twitter" height="40">
+  </a>
+
+  <a href="https://www.youtube.com/channel/SahinShaz">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg?color=white" alt="YouTube" height="40">
+  </a>
+
+  <a href="https://youtube.com/@sahinshaji?si=bDg6Gc8inaDqSBz3">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg?color=white" alt="website" height="40">
+  </a>
+
+</div>
 ---
 
 ### 🎖️ GitHub Badges  
