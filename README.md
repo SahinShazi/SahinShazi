@@ -1,5 +1,5 @@
 ## Hi, I'm Sahin Enam 👋
-[<img src='https://yt3.googleusercontent.com/5Z0udUbo1tvh5oeyeZpHTNoeSdVhuqui6dWMocgblvTllQqpzwRTzG_b-tIRB9-x0xg4qxXfCw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj' alt='Sahin Shazi'>](https://github.com/SahinShaz)
+[<img src='banner.jpg' alt='Sahin Shazi'>](https://github.com/SahinShaz)
 <p>
 👑 I am Frontend Developer <br> 
 🖊️ Love to write clean code <br> 
