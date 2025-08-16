@@ -1,4 +1,4 @@
-## Hi, I'm Sahin Shazi 👋
+## Hi, I'm Sahin Enam 👋
 [<img src='https://yt3.googleusercontent.com/5Z0udUbo1tvh5oeyeZpHTNoeSdVhuqui6dWMocgblvTllQqpzwRTzG_b-tIRB9-x0xg4qxXfCw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj' alt='Sahin Shazi'>](https://github.com/SahinShaz)
 <p>
 👑 I am Frontend Developer <br> 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sahin_tech_1" target="blank"><img src="https://img.shields.io/twitter/follow/sahin_tech_1?logo=twitter&style=for-the-badge" alt="sahin_tech_1" /></a> </p>
 
-## 🚀 About Me
+### 🚀 About Me
 I’m a Front End Web developer passionate about building modern, responsive websites that make an impact. Skilled in HTML, CSS, JavaScript, and always ready to craft clean code and beautiful UI.  
 I am passionate about learning and sharing my knowledge with others as publicly as possible. Currently, I’m learning Python to expand my skills. I love to solve real-world problems and collaborate on open-source projects.  
 
-## 👨‍💻 Skills & Experience: 
+### 👨‍💻 Skills & Experience: 
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
 ✅ Responsive Web Design <br>
@@ -31,5 +31,5 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://youtube.com/@sahinshaji?si=bDg6Gc8inaDqSBz3)
 ---
 
-## 📧 For Business Inquiries 
-✅ ► sahinshazi@gmail.com
+### 📧 For Business Inquiries 
+✅ ► rksahinrone@gmail.com
