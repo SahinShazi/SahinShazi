@@ -1,28 +1,25 @@
-## Hi there 👋, my name is Sahin  
-#### A passionate frontend developer from Bangladesh  
+## Hi, I'm Sahin Shazi 👋
+[<img src='https://yt3.googleusercontent.com/5Z0udUbo1tvh5oeyeZpHTNoeSdVhuqui6dWMocgblvTllQqpzwRTzG_b-tIRB9-x0xg4qxXfCw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj' alt='Sahin Shazi'>](https://github.com/SahinShaz)
+<p>
+👑 I am Frontend Developer <br> 
+🖊️ Love to write clean code <br> 
+🎤 Like to share my knowledge </p> 
 
-![A passionate frontend developer from Bangladesh](https://yt3.googleusercontent.com/5Z0udUbo1tvh5oeyeZpHTNoeSdVhuqui6dWMocgblvTllQqpzwRTzG_b-tIRB9-x0xg4qxXfCw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+<p align="left"> <a href="https://twitter.com/sahin_tech_1" target="blank"><img src="https://img.shields.io/twitter/follow/sahin_tech_1?logo=twitter&style=for-the-badge" alt="sahin_tech_1" /></a> </p>
 
-Passionate about building **modern, responsive websites** that make an impact.  
-Skilled in **HTML, CSS, JavaScript**, and always ready to craft clean code and beautiful UI.  
-✨ Let’s create something awesome together!  
+## 🚀 About Me
+I’m a Front End Web developer passionate about building modern, responsive websites that make an impact. Skilled in HTML, CSS, JavaScript, and always ready to craft clean code and beautiful UI.  
+I am passionate about learning and sharing my knowledge with others as publicly as possible. Currently, I’m learning Python to expand my skills. I love to solve real-world problems and collaborate on open-source projects.  
 
----
+## 👨‍💻 Skills & Experience: 
+✅ JavaScript <br>
+✅ HTML5 / CSS3 / Bootstrap <br>
+✅ Responsive Web Design <br>
+✅ Git / GitHub <br>
+✅ Python (Learning) <br>
 
-### 🛠 Skills  
-**JS / HTML / CSS**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShaz&layout=compact)
 
----
-
-### 📌 About Me  
-- 🔭 I’m currently working on **YouTube**  
-- 🌱 I’m currently learning **Python**  
-- 👯 I’m looking to collaborate on **Github**  
-- 🤔 I’m looking for help with **learning a skill**  
-- 😄 Pronouns: **Sahin Shazi**  
-- ⚡ Fun fact: *Lightning is 5x hotter than the sun!*  
-
----
 ### 🌐 Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahinShaz)
@@ -34,11 +31,5 @@ Skilled in **HTML, CSS, JavaScript**, and always ready to craft clean code and b
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://youtube.com/@sahinshaji?si=bDg6Gc8inaDqSBz3)
 ---
 
-### 🎖️ GitHub Badges  
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='30' height='30'></a>
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='30' height='30'></a>  
-
----
+## 📧 For Business Inquiries 
+✅ ► sahinshazi@gmail.com
