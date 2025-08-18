@@ -20,7 +20,7 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 
 ![Top Langs]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=tokyonight)
 
 ### 🌐 Connect with Me  
 
