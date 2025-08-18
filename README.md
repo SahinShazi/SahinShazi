@@ -18,7 +18,7 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 ✅ Git / GitHub <br>
 ✅ Python (Learning) <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShaz&layout=compact)
+![Top Langs](#)
 
 ### 🌐 Connect with Me  
 
