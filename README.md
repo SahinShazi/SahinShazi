@@ -18,9 +18,9 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 ✅ Git / GitHub <br>
 ✅ Python (Learning) <br>
 
+## 🔥 GitHub Streak Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=tokyonight)
 
-## 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SahinShazi&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 🌐 Connect with Me  
