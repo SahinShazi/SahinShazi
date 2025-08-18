@@ -19,8 +19,8 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 ✅ Python (Learning) <br>
 
 ## 🔥 GitHub Streak Stats
+![](https://github-readme-stats.vercel.app/api?username=jimam-tamimi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=tokyonight)<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=false)
 
 ## 🌐 Socials:
