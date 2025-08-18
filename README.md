@@ -5,7 +5,7 @@
 🖊️ Love to write clean code <br> 
 🎤 Like to share my knowledge </p> 
 
-<p align="left"> <a href="https://twitter.com/sahin_tech_1" target="blank"><img src="https://img.shields.io/twitter/follow/sahin_tech_1?logo=twitter&style=for-the-badge" alt="sahin_tech_1" /></a> </p>
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/sahin_tech_1?logo=twitter&style=for-the-badge" alt="sahin_tech_1" /></a> </p>
 
 ### 🚀 About Me
 I’m a Front End Web developer passionate about building modern, responsive websites that make an impact. Skilled in HTML, CSS, JavaScript, and always ready to craft clean code and beautiful UI.  
