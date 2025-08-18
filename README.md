@@ -18,7 +18,9 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 ✅ Git / GitHub <br>
 ✅ Python (Learning) <br>
 
-![Top Langs](#)
+![Top Langs]()
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ### 🌐 Connect with Me  
 
