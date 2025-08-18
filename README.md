@@ -21,7 +21,7 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 ## 🔥 GitHub Streak Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SahinShazi&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SahinShazi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 🌐 Connect with Me  
 
