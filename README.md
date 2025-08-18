@@ -19,9 +19,9 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 ✅ Python (Learning) <br>
 
 ## 🔥 GitHub Streak Stats
-![](https://github-readme-stats.vercel.app/api?username=SahinShazi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=false) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=tokyonight)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=SahinShazi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JimamFB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jimam_tamimi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jimam-tamimi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jimamtamimi8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Jimam)
