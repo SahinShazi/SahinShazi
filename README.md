@@ -1,4 +1,4 @@
-## Hi, I'm Sahin Enam 👋
+# Hi, I'm Sahin Enam 👋
 [<img src='banner.jpg' alt='Sahin Shazi'>](https://github.com/SahinShaz)
 <p>
 👑 I am Frontend Developer <br> 
