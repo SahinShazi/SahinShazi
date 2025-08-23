@@ -1,4 +1,4 @@
-# Hi, I'm Sahin Enam 👋
+# Hi, I'm Sahin Enam <img src="./assets/waving-hand.gif" width="28" height="28" alt="waving hand"/>
 [<img src='banner.jpg' alt='Sahin Shazi'>](https://github.com/SahinShaz)
 <p>
 👑 I am Frontend Developer <br> 
