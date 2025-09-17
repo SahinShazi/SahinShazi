@@ -169,7 +169,7 @@ learning = {
 ## 💼 Business Inquiries
 
 <div align="center">
-  <h3>📧 Ready to collaborate? Let's build something amazing together!</h3>
+  <h5>📧 Ready to collaborate? Let's build something amazing together!</h5>
   <p>
     <a href="mailto:sahin.enam10@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
