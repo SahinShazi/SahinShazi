@@ -25,6 +25,7 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 ### 💫 What Drives Me
 - 👑 **Frontend Development** - Creating beautiful, functional web experiences
 - 🖊️ **Clean Code** - Writing maintainable, elegant solutions
