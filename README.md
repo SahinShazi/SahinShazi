@@ -107,7 +107,7 @@ learning = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=SahinShazi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="70em" src="https://github-readme-stats.vercel.app/api?username=SahinShazi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
