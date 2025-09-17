@@ -98,26 +98,16 @@ learning = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/SahinShazi">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahinShazi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/SahinShazi">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahinShazi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://github.com/SahinShazi">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahinShazi&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahinShazi&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ---
@@ -163,9 +153,6 @@ learning = {
   <a href="https://www.tiktok.com/@sahinenam?_t=ZS-8yzHEc5owbq&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://youtube.com/@sahintechnology?si=azBYE5RM8L7zawUJ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
 
 </div>
@@ -177,11 +164,11 @@ learning = {
 <div align="center">
   <h3>📧 Ready to collaborate? Let's build something amazing together!</h3>
   <p>
-    <a href="mailto:rksahinrone@gmail.com">
+    <a href="mailto:sahin.enam10@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
-  <p><strong>✅ rksahinrone@gmail.com</strong></p>
+  <p><strong>✅ sahin.enam10@gmail.com</strong></p>
 </div>
 
 ---
