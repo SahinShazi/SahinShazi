@@ -69,38 +69,35 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 
 </div>
 
-### 👨‍💻 Skill Details
+## 🛠️ Tech Arsenal
 
-<table align="center">
+<div align="center">
+
+### 🔥 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,vscode&theme=dark" alt="Frontend Skills" />
+
+### 🚀 Expanding Horizons
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Learning Python" />
+
+</div>
+
+<div align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**Frontend Development**
+**🎨 Frontend**
 ```javascript
-const skills = {
+const frontend = {
   languages: ["JavaScript", "HTML5", "CSS3"],
   frameworks: ["Bootstrap"],
-  concepts: ["Responsive Design", "Clean Code"],
-  tools: ["Git", "GitHub", "VS Code"]
-}
+  concepts: ["Responsive Design", "UI/UX"],
+  level: "Advanced"
+};
 ```
 
 </td>
-<td align="center" width="50%">
-
-**Currently Expanding**
-```python
-learning = {
-  language: "Python",
-  focus: "Full-Stack Development",
-  goal: "Backend Integration",
-  timeline: "2024"
-}
-```
-
-</td>
-</tr>
-</table>
+<td align="center" width="33%">
 
 ---
 
