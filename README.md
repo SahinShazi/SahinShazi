@@ -121,12 +121,17 @@ learning = {
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievement Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahinShazi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SahinShazi&theme=juicyfresh&no-frame=true&row=1&column=7" alt="Trophy Case"/>
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahinShazi&custom_title=Sahin's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=F8D866&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 ## 📈 Contribution Graph
