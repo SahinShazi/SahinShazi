@@ -171,7 +171,7 @@ learning = {
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
-  <p><strong>✅ rksahinrone@gmail.com</strong></p>
+  <p><strong>✅ sahin.enam10@gmail.com</strong></p>
 </div>
 
 ---
