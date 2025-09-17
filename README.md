@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 10px;">
+<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJkMmQ0OWI1YjVkYjVkNGI4M2Y4MTY4ZGYyNzY4MzBkZGYxOGJkNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px;" />
 
 I'm a **Frontend Developer** passionate about building modern, responsive websites that make an impact. Skilled in HTML, CSS, JavaScript, and always ready to craft clean code and beautiful UI.
 
