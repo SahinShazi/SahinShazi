@@ -133,20 +133,12 @@ learning = {
 <div align="center">
 
 ### 🤝 Social Media
-<p>
-  <a href="https://www.facebook.com/share/1Cd7TSsjD6/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/sahinenam?igsh=MWY2bGlkam1qM2t6YQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.co/SOrlXs5nQS" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Sahin_Tech_1?s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+## 📊 GitHub Statistics
+
+- **Total Stars:** [![Stars](https://img.shields.io/github/stars/SahinShazi?style=social)](https://github.com/SahinShazi)
+- **Total Forks:** [![Forks](https://img.shields.io/github/forks/SahinShazi?style=social)](https://github.com/SahinShazi)
+- **Total Contributions:** 1500+ (approx)
+- **Public Repositories:** 15+
 
 ### 🎥 Content Creation
 <p>
