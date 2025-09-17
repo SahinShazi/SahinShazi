@@ -146,7 +146,7 @@ learning = {
 <div align="center">
 
 ### 🤝 Professional Networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://t.co/SOrlXs5nQS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sahinenam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/Sahin_Tech_1?s=09)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/SahinShazi)
 
