@@ -24,7 +24,8 @@ I'm a **Front End Web Developer** passionate about building modern, responsive w
 I am passionate about learning and sharing my knowledge with others as publicly as possible. Currently, I'm learning **Python** to expand my skills. I love to solve real-world problems and collaborate on open-source projects.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+ 
+ <br/>
 
 ### 💫 What Drives Me
 - 👑 **Frontend Development** - Creating beautiful, functional web experiences
