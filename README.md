@@ -162,13 +162,6 @@ learning = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎥 Content Creation
-<p>
-  <a href="https://www.tiktok.com/@sahinenam?_t=ZS-8yzHEc5owbq&_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-</p>
-
 </div>
 
 ---
