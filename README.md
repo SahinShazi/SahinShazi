@@ -155,7 +155,6 @@ learning = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/share/1Cd7TSsjD6/)
 
 ### 🎥 Content Creation
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@sahintechnology?si=azBYE5RM8L7zawUJ)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@sahinenam?_t=ZS-8yzHEc5owbq&_r=1)
 
 </div>
