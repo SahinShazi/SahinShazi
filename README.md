@@ -218,6 +218,16 @@ graph LR
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
 
+### 📈 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.2%
+HTML         4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.6%
+CSS          3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   17.7%
+Python       1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.5%
+```
+<!--END_SECTION:waka-->
+
 ---
 
 <div align="center">
