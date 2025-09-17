@@ -28,12 +28,21 @@ I'm a **Frontend Developer** passionate about building modern, responsive websit
 
 I am passionate about learning and sharing my knowledge with others as publicly as possible. Currently, I'm learning **Python** to expand my skills. I love to solve real-world problems and collaborate on open-source projects.
 
-### 💫 What Drives Me
-- 👑 **Frontend Development** - Creating beautiful, functional web experiences
-- 🖊️ **Clean Code** - Writing maintainable, elegant solutions  
-- 🎤 **Knowledge Sharing** - Helping others grow in their developer journey
-- 🌱 **Continuous Learning** - Always expanding my technical horizons
-- 🤝 **Open Source** - Contributing to the developer community
+### 💫 Core Values
+<table>
+<tr>
+<td>👑</td><td><b>Frontend Development</b><br/>Creating beautiful, functional experiences</td>
+</tr>
+<tr>
+<td>🖊️</td><td><b>Clean Code</b><br/>Writing maintainable, elegant solutions</td>
+</tr>
+<tr>
+<td>🎤</td><td><b>Knowledge Sharing</b><br/>Empowering the developer community</td>
+</tr>
+<tr>
+<td>🌱</td><td><b>Continuous Learning</b><br/>Always expanding technical horizons</td>
+</tr>
+</table>
 
 <br clear="both"/>
 
