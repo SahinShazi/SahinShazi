@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahinenam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="" alt="LinkedIn Follow" />
+    <img src="https://www.linkedin.com/in/sahinenam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn Follow" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SahinShazi&style=for-the-badge&color=orange&labelColor=000000" alt="Profile Views" />
   <a href="https://github.com/SahinShazi?tab=followers">
