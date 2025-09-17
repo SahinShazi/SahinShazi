@@ -228,7 +228,9 @@ Python       1 hr 52 mins    ██░░░░░░░░░░░░░░░
 <div align="center">
   <h2>🌟 "Clean code always looks like it was written by someone who cares" 🌟</h2>
   
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave"/>
   
   <p><i>Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐️ star the ones you find interesting!</i></p>
   
