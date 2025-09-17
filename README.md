@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://x.com/Sahin_Tech_1?s=09" target="_blank">
+  <a href="https://www.linkedin.com/in/sahinenam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sahin_tech_1?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SahinShazi&style=for-the-badge&color=orange&labelColor=000000" alt="Profile Views" />
