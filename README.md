@@ -48,6 +48,27 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 
 ---
 
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" alt="Frontend Skills" />
+</p>
+
+### 🔧 Tools & Version Control  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Learning" />
+</p>
+
+</div>
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -59,69 +80,6 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Learning Python" />
 
 </div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🎨 Frontend**
-```javascript
-const frontend = {
-  languages: ["JavaScript", "HTML5", "CSS3"],
-  frameworks: ["Bootstrap"],
-  concepts: ["Responsive Design", "UI/UX"],
-  level: "Advanced"
-};
-```
-
-</td>
-<td align="center" width="33%">
-
-**🔧 Tools**
-```bash
-# Development Toolkit
-git --version
-github --workflow
-vscode --extensions
-responsive-design --mobile-first
-```
-
-</td>
-<td align="center" width="33%">
-
-**📈 Learning**
-```python
-# Current Focus
-learning = {
-    "language": "Python",
-    "goal": "Full-Stack Development",
-    "progress": "70%",
-    "next": "Backend Integration"
-}
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-### 👨‍💻 Skill Details
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**Frontend Development**
-```javascript
-const skills = {
-  languages: ["JavaScript", "HTML5", "CSS3"],
-  frameworks: ["Bootstrap"],
-  concepts: ["Responsive Design", "Clean Code"],
-  tools: ["Git", "GitHub", "VS Code"]
-}
-```
 
 </td>
 <td align="center" width="50%">
