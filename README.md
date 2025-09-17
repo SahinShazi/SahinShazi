@@ -33,7 +33,7 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 <div align="center">
 
