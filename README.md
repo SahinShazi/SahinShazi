@@ -153,9 +153,6 @@ learning = {
   <a href="https://www.tiktok.com/@sahinenam?_t=ZS-8yzHEc5owbq&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://youtube.com/@sahintechnology?si=azBYE5RM8L7zawUJ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
 
 </div>
