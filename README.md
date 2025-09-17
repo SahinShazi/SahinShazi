@@ -1,79 +1,129 @@
 # Hi, I'm Sahin Enam <img src="waving-hand1.gif" width="28" height="28" alt="waving hand"/>
 
 <div align="center">
-  <img src='banner.jpg' alt='Sahin Shazi' width="100%" />
+  <img src='banner.jpg' alt='Sahin Shazi' width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=Frontend+Developer+👑;Clean+Code+Enthusiast+🖊️;Knowledge+Sharing+Advocate+🎤;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%91%91;Clean+Code+Enthusiast+%F0%9F%96%8A%EF%B8%8F;Knowledge+Sharing+Advocate+%F0%9F%8E%A4;Building+Modern+Web+Experiences+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://x.com/Sahin_Tech_1?s=09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sahin_tech_1?logo=twitter&style=for-the-badge&color=1DA1F2" alt="sahin_tech_1" />
+  <a href="https://x.com/Sahin_Tech_1?s=09" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sahin_tech_1?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SahinShazi&style=for-the-badge&color=orange" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SahinShazi&style=for-the-badge&color=orange&labelColor=000000" alt="Profile Views" />
+  <a href="https://github.com/SahinShazi?tab=followers">
+    <img src="https://img.shields.io/github/followers/SahinShazi?label=Followers&style=for-the-badge&color=blue&labelColor=000000" alt="GitHub Followers" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Front End Web Developer** passionate about building modern, responsive websites that make an impact. Skilled in HTML, CSS, JavaScript, and always ready to craft clean code and beautiful UI.
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 10px;">
+
+I'm a **Frontend Developer** passionate about building modern, responsive websites that make an impact. Skilled in HTML, CSS, JavaScript, and always ready to craft clean code and beautiful UI.
 
 I am passionate about learning and sharing my knowledge with others as publicly as possible. Currently, I'm learning **Python** to expand my skills. I love to solve real-world problems and collaborate on open-source projects.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
- 
- <br/>
-
 ### 💫 What Drives Me
 - 👑 **Frontend Development** - Creating beautiful, functional web experiences
-- 🖊️ **Clean Code** - Writing maintainable, elegant solutions
+- 🖊️ **Clean Code** - Writing maintainable, elegant solutions  
 - 🎤 **Knowledge Sharing** - Helping others grow in their developer journey
 - 🌱 **Continuous Learning** - Always expanding my technical horizons
+- 🤝 **Open Source** - Contributing to the developer community
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Frontend Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 💻 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" alt="Frontend Skills" />
+</p>
 
-### Currently Learning
-![Python](https://img.shields.io/badge/Python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🔧 Tools & Version Control  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</p>
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Learning" />
+</p>
 
 </div>
 
-### 👨‍💻 Current Expertise:
+### 👨‍💻 Skill Details
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**Frontend Development**
+```javascript
+const skills = {
+  languages: ["JavaScript", "HTML5", "CSS3"],
+  frameworks: ["Bootstrap"],
+  concepts: ["Responsive Design", "Clean Code"],
+  tools: ["Git", "GitHub", "VS Code"]
+}
 ```
-✅ JavaScript               - Building interactive web applications
-✅ HTML5 / CSS3 / Bootstrap  - Modern, responsive web design
-✅ Responsive Web Design     - Mobile-first approach
-✅ Git / GitHub             - Version control & collaboration
-✅ Python (Learning)        - Expanding to full-stack development
+
+</td>
+<td align="center" width="50%">
+
+**Currently Expanding**
+```python
+learning = {
+  language: "Python",
+  focus: "Full-Stack Development",
+  goal: "Backend Integration",
+  timeline: "2024"
+}
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahinShazi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/? username=SahinShazi&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahinShazi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahinShazi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahinShazi&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SahinShazi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahinShazi&theme=redical&hide_border=true&custom_title=Sahin's%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -81,40 +131,100 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Cd7TSsjD6/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sahinenam?igsh=MWY2bGlkam1qM2t6YQ==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.co/SOrlXs5nQS)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@sahinenam?_t=ZS-8yzHEc5owbq&_r=1)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@sahintechnology?si=azBYE5RM8L7zawUJ)
 
-</div>
-
----
-
-## 📫 Business Inquiries
-
-<div align="center">
-  <a href="mailto:rksahinrone@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+### 🤝 Social Media
+<p>
+  <a href="https://www.facebook.com/share/1Cd7TSsjD6/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
+  <a href="https://www.instagram.com/sahinenam?igsh=MWY2bGlkam1qM2t6YQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.co/SOrlXs5nQS" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Sahin_Tech_1?s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-**📧 rksahinrone@gmail.com**
+### 🎥 Content Creation
+<p>
+  <a href="https://www.tiktok.com/@sahinenam?_t=ZS-8yzHEc5owbq&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://youtube.com/@sahintechnology?si=azBYE5RM8L7zawUJ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 💭 Developer Quote
+## 💼 Business Inquiries
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <h3>📧 Ready to collaborate? Let's build something amazing together!</h3>
+  <p>
+    <a href="mailto:rksahinrone@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+  <p><strong>✅ rksahinrone@gmail.com</strong></p>
+</div>
+
+---
+
+## 💭 Daily Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🎯 Current Goals & Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Frontend Expert] --> B[Learning Python]
+    B --> C[Full-Stack Developer] 
+    C --> D[Open Source Contributor]
+    D --> E[Tech Content Creator]
+    E --> F[Community Builder]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
+    style F fill:#dda0dd
+```
+
+</div>
+
+---
+
+## 🔥 Fun Facts
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>🌟 "Code is poetry written in logic" 🌟</h3>
+  <h2>🌟 "Clean code always looks like it was written by someone who cares" 🌟</h2>
+  
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom SVG" />
+  
   <p><i>Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐️ star the ones you find interesting!</i></p>
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <p><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
+  
+  <p><sub>💖 Made with passion by <a href="https://github.com/SahinShazi">Sahin Enam</a></sub></p>
 </div>
