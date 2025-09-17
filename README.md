@@ -69,9 +69,7 @@ I am passionate about learning and sharing my knowledge with others as publicly 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahinShazi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahinShazi&theme=radical&hide_border=false" 
-     alt="GitHub Streak" 
-     style="width: 49%;" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/? username=SahinShazi&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
