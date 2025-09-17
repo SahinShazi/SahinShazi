@@ -167,7 +167,7 @@ learning = {
 <div align="center">
   <h3>📧 Ready to collaborate? Let's build something amazing together!</h3>
   <p>
-    <a href="mailto:rksahinrone@gmail.com">
+    <a href="mailto:sahin.enam10@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
